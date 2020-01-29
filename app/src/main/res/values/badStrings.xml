@@ -1,0 +1,206 @@
+<resources>
+    <string name="bad">Naughty Words</string>
+    <string-array name="bad_brand_names">
+        <item>Manly (for ladies)</item>
+        <item>Scrumtrulescence</item>
+        <item>Resplendid</item>
+        <item>Angel\'s Touch</item>
+        <item>Power Foam</item>
+        <item>Practical Living</item>
+        <item>Mental Cleanse</item>
+        <item>Cute Curls</item>
+        <item>Flash and Fame</item>
+        <item>Only Earth</item>
+        <item>C*nfident C*nt</item>
+        <item>Clubber Lang\'s Shampoo</item>
+        <item>Sexy Sex</item>
+        <item>Sexier Sex</item>
+        <item>Sexiest Sex</item>
+        <item>Sexist Sex</item>
+        <item>Silly Putty (a Shampoo Story)</item>
+        <item>Ladylike (for men)</item>
+        <item>Napalm in the morning</item>
+        <item>Verbal Essence</item>
+        <item>Fuckervesescence</item>
+        <item>Betty\'s Barbeque</item>
+        <item>Chom-choms\'</item>
+        <item>Spit in a Jar</item>
+        <item>SKRUH</item>
+        <item>Not Raw Sewage</item>
+        <item>Snake Oil</item>
+        <item>Búshì</item>
+    </string-array>
+    <string-array name="bad_blurbs">
+        <item>It\'s Shampoo!</item>
+        <item>We\'ve updated our privacy policy!</item>
+        <item>[BRAND] is always watching!</item>
+        <item>Enjoy Yourself</item>
+        <item>You know how to keep and idiot busy for an hour? Flip over this bottle to find out.</item>
+        <item>It\'s the best shower mohawk sauce that money can buy!</item>
+        <item>If you Drink this, You\'re an Idiot.</item>
+        <item>You smell that? It\'s the scent of a great decision.</item>
+        <item>Fructis can lick my nutz</item>
+        <item>Make your hair smell like it tastes great</item>
+        <item>We know why you\'re reading this... weirdo...</item>
+        <item>Please Don\'t Shampoo in the Jungle</item>
+        <item>It\'s like soap that you can eat*\n *do not eat</item>
+        <item>If you don\'t use this shampoo we\'ll all call you a nerd!</item>
+        <item>As seen on Forbes Magazine</item>
+        <item>[BRAND] for when you smell as homeless as you look</item>
+        <item>L\'oreal is for pussies!</item>
+        <item>No muss, no fuss, just [BRAND]</item>
+        <item>YOUR HAIR LOOKS SHITTY!...FIX IT!</item>
+        <item>Bring out the natural beauty of your gross-ass hair</item>
+        <item>Revitalize your marriage* *your hair</item>
+        <item>It\'s like a holocaust for germs</item>
+        <item>The best barbeque sauce this side of the Mississippi</item>
+        <item>[BRAND] it\'ll liberate ya\'</item>
+        <item>Quench the flames with FLAVOR</item>
+        <item>FUCK YOU DANDRUFF</item>
+        <item>Flatten that 7 like [BRAND]</item>
+        <item>"\"I\'ve been a pig my whole life, I know what it takes\"~ Chris P. Bacon"</item>
+        <item>Do Not use after midnight</item>
+    </string-array>
+    <string-array name="bad_directions">
+        <item>Use the shampoo.</item>
+        <item>Use the Shampoo</item>
+        <item>Pre-heat oven to 350°F</item>
+        <item>Fight the Power</item>
+        <item>Put your left hand in</item>
+        <item>Put your left hand out</item>
+        <item>Put your left hand in, and you shake it all about</item>
+        <item>Bake until golden brown</item>
+        <item>Salt and pepper to taste</item>
+        <item>Take the dingle bop and smooth it out with a bunch of schleem</item>
+        <item>Apply parking brake</item>
+        <item>Turn your hazard lights on</item>
+        <item>Tune to E standard</item>
+        <item>Bow to your partner</item>
+        <item>Right foot left stomp</item>
+        <item>Superman that ho</item>
+        <item>Open the fuckin\' bottle</item>
+        <item>Wet hair</item>
+        <item>Lather, rinse, repeat.</item>
+        <item>Open the door, get on the floor, Everybody walk the dinosaur.</item>
+        <item>Turn off AdBlocker</item>
+        <item>Enable cookies</item>
+        <item>Cut a hole in the box</item>
+        <item>Put your junk in that box</item>
+        <item>Make her open the box</item>
+        <item>Ignore the bird, Follow the river</item>
+        <item>Rage against the dying of the light</item>
+        <item>Eat lightning, crap thunder</item>
+        <item>Construct additional pylons</item>
+        <item>Apply directly to the forehead</item>
+        <item>Massage lustfully</item>
+    </string-array>
+
+    <string-array name="bad_real_ingredients">
+        <item>Sodium Lauryl Sulfate</item>
+        <item>Sodium Laureth Sulfate</item>
+        <item>Dimethicone</item>
+        <item>Panthenol</item>
+        <item>Citric Acid</item>
+        <item>Methylparaben</item>
+        <item>Ethylparaben</item>
+        <item>Butylparaben</item>
+        <item>Zinc Pyrithione</item>
+        <item>Cocamidopropyl Betaine</item>
+        <item>cocoglucoside</item>
+        <item>water</item>
+        <item>citric acid</item>
+        <item>panthenol</item>
+        <item>dimethicone</item>
+    </string-array>
+    <string-array name="bad_ingredients">
+        <item>pocket sand</item>
+        <item>soul (dog)</item>
+        <item>rotiserrie chicken</item>
+        <item>flannel</item>
+        <item>green herb</item>
+        <item>red herb</item>
+        <item>tetrahydrocannabinol</item>
+        <item>kittens</item>
+        <item>Phosgene</item>
+        <item>Cyanogen Chloride</item>
+        <item>Ethyldichloroarsine</item>
+        <item>Methyldichloroarsine</item>
+        <item>Phenyldichoroarsine</item>
+        <item>Tabun (GA)</item>
+        <item>Sarin (GB)</item>
+        <item>Soman (GD)</item>
+        <item>Cyclosarin (GF)</item>
+        <item>Dimethylheptylpyran (DMHP)</item>
+        <item>spam</item>
+        <item>McDoubles</item>
+        <item>Reverse L Blocks</item>
+        <item>power pellets</item>
+        <item>durians</item>
+        <item>rambutans</item>
+        <item>hair (yours)</item>
+        <item>icosohedron (pink)</item>
+        <item>love</item>
+        <item>kid brains</item>
+        <item>bees?</item>
+        <item>crunchberries</item>
+        <item>God\'s kisses</item>
+        <item>salsa</item>
+        <item>gluten</item>
+        <item>poop</item>
+        <item>stinky poopy</item>
+        <item>jizz (human)</item>
+        <item>fun</item>
+        <item>shampoo</item>
+        <item>platypus venom (that\'s right, they have venom, look that shit up!)</item>
+        <item>magic</item>
+        <item>shampoo bottle</item>
+        <item>WiFi</item>
+        <item>babies</item>
+        <item>mom\'s spaghetti</item>
+        <item>dino DNA</item>
+        <item>peanuts</item>
+        <item>chom-choms</item>
+        <item>vermicious knid</item>
+        <item>snozzwangers</item>
+        <item>snozzberries</item>
+        <item>aged vape juice</item>
+    </string-array>
+    <string-array name="bad_modifyers">
+        <item>wholesome</item>
+        <item>two scoops of</item>
+        <item>bits of</item>
+        <item>not your grandma\'s</item>
+        <item>mechanically seperated</item>
+        <item>a laddle\'s worth of</item>
+        <item>barrel aged</item>
+        <item>hella expensive</item>
+        <item>finely tuned</item>
+        <item>powdered</item>
+        <item>glazed</item>
+        <item>a cooler\'s worth of</item>
+        <item>the mere idea of</item>
+        <item>some</item>
+        <item>like a handful of</item>
+        <item>some a\' dem dere</item>
+        <item>I dunno... like... 50</item>
+        <item>freshly squeezed</item>
+        <item>a slap of</item>
+        <item>gluten-free</item>
+        <item>I\'m pretty sure it\'s</item>
+        <item>a squeeze of</item>
+        <item>a dollop of</item>
+        <item>lady</item>
+        <item>one quart of</item>
+        <item>distilled</item>
+        <item>fermented</item>
+        <item>ionized</item>
+        <item>radioactive</item>
+        <item>isothermal</item>
+        <item>a shirt basket\'s worth of</item>
+        <item>pure</item>
+        <item>an obnoxious amount of</item>
+    </string-array>
+
+
+</resources>
+

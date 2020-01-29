@@ -1,0 +1,266 @@
+<resources>
+    <string name="app_name">Shampoo Reader</string>
+    <string name="click_me">Click Me!</string>
+    <string name="start_reading">Start Reading</string>
+    <string name="welcome">Welcome \nto Shampoo Reader!\n\nI\'m not sure why you downloaded this but thanks I guess...</string>
+
+
+    <string-array name="brand_names">
+        <item>Manly (for ladies)</item>
+        <item>Scrumtrulescence</item>
+        <item>Resplendid</item>
+        <item>Angel\'s Touch</item>
+        <item>Power Foam</item>
+        <item>Practical Living</item>
+        <item>Mental Cleanse</item>
+        <item>Cute Curls</item>
+        <item>Flash and Fame</item>
+        <item>Only Earth</item>
+        <item>Clubber Lang\'s Shampoo</item>
+        <item>Silly Putty (a Shampoo Story)</item>
+        <item>Ladylike (for men)</item>
+        <item>Napalm in the morning</item>
+        <item>Verbal Essence</item>
+        <item>Betty\'s Barbeque</item>
+        <item>Chom-choms\'</item>
+        <item>Spit in a Jar</item>
+        <item>SKRUH</item>
+        <item>Not Raw Sewage</item>
+        <item>Snake Oil</item>
+    </string-array>
+    <string-array name="blurbs">
+        <item>It\'s Shampoo!</item>
+        <item>We\'ve updated our privacy policy!</item>
+        <item>[BRAND] is always watching!</item>
+        <item>Enjoy Yourself</item>
+        <item>You know how to keep and idiot busy for an hour? Flip over this bottle to find out.</item>
+        <item>It\'s the best shower mohawk sauce that money can buy!</item>
+        <item>If you Drink this, You\'re an Idiot.</item>
+        <item>You smell that? It\'s the scent of a great decision.</item>
+        <item>Make your hair smell like it tastes great</item>
+        <item>We know why you\'re reading this... weirdo...</item>
+        <item>Please Don\'t Shampoo in the Jungle</item>
+        <item>It\'s like soap that you can eat*\n *do not eat</item>
+        <item>If you don\'t use this shampoo we\'ll all call you a nerd!</item>
+        <item>As seen on Forbes Magazine</item>
+        <item>[BRAND] for when you smell as homeless as you look</item>
+        <item>No muss, no fuss, just [BRAND]</item>
+        <item>YOUR HAIR LOOKS BAD!...FIX IT!</item>
+        <item>Bring out the natural beauty of your gross hair</item>
+        <item>Revitalize your marriage* *your hair</item>
+        <item>The best barbeque sauce this side of the Mississippi</item>
+        <item>[BRAND] it\'ll liberate ya\'</item>
+        <item>Quench the flames with FLAVOR</item>
+        <item>Flatten that 7 like [BRAND]</item>
+        <item>"\"I\'ve been a pig my whole life, I know what it takes\"~ Chris P. Bacon"</item>
+        <item>Do Not use after midnight</item>
+    </string-array>
+    <string-array name="directions">
+        <item>Use the Shampoo.</item>
+        <item>Pre-heat oven to 350°F</item>
+        <item>Fight the Power</item>
+        <item>Put your left hand in</item>
+        <item>Put your left hand out</item>
+        <item>Put your left hand in, and you shake it all about</item>
+        <item>Bake until golden brown</item>
+        <item>Salt and pepper to taste</item>
+        <item>Take the dingle bop and smooth it out with a bunch of schleem</item>
+        <item>Apply parking brake</item>
+        <item>Turn your hazard lights on</item>
+        <item>Tune to E standard</item>
+        <item>Bow to your partner</item>
+        <item>Right foot left stomp</item>
+        <item>Open the bottle</item>
+        <item>Wet hair</item>
+        <item>Lather, rinse, repeat.</item>
+        <item>Open the door, get on the floor, Everybody walk the dinosaur.</item>
+        <item>Turn off AdBlocker</item>
+        <item>Enable cookies</item>
+        <item>Ignore the bird, Follow the river</item>
+        <item>Rage against the dying of the light</item>
+        <item>Eat lightning, crap thunder</item>
+        <item>Construct additional pylons</item>
+        <item>Apply directly to the forehead</item>
+        <item>Massage lustfully</item>
+    </string-array>
+
+    <string-array name="real_ingredients">
+        <item>Sodium Lauryl Sulfate</item>
+        <item>Sodium Laureth Sulfate</item>
+        <item>Dimethicone</item>
+        <item>Panthenol</item>
+        <item>Citric Acid</item>
+        <item>Methylparaben</item>
+        <item>Ethylparaben</item>
+        <item>Butylparaben</item>
+        <item>Zinc Pyrithione</item>
+        <item>Cocamidopropyl Betaine</item>
+        <item>cocoglucoside</item>
+        <item>water</item>
+        <item>citric acid</item>
+        <item>panthenol</item>
+        <item>dimethicone</item>
+    </string-array>
+    <string-array name="ingredients">
+        <item>pocket sand</item>
+        <item>soul (dog)</item>
+        <item>rotiserrie chicken</item>
+        <item>flannel</item>
+        <item>green herb</item>
+        <item>red herb</item>
+        <item>tetrahydrocannabinol</item>
+        <item>kittens</item>
+        <item>Phosgene</item>
+        <item>Cyanogen Chloride</item>
+        <item>Ethyldichloroarsine</item>
+        <item>Methyldichloroarsine</item>
+        <item>Phenyldichoroarsine</item>
+        <item>Tabun (GA)</item>
+        <item>Sarin (GB)</item>
+        <item>Soman (GD)</item>
+        <item>Cyclosarin (GF)</item>
+        <item>Dimethylheptylpyran (DMHP)</item>
+        <item>spam</item>
+        <item>McDoubles</item>
+        <item>Reverse L Blocks</item>
+        <item>power pellets</item>
+        <item>durians</item>
+        <item>rambutans</item>
+        <item>hair (yours)</item>
+        <item>icosohedron (pink)</item>
+        <item>love</item>
+        <item>kid brains</item>
+        <item>bees?</item>
+        <item>crunchberries</item>
+        <item>God\'s kisses</item>
+        <item>salsa</item>
+        <item>gluten</item>
+        <item>poop</item>
+        <item>stinky poopy</item>
+        <item>fun</item>
+        <item>shampoo</item>
+        <item>platypus venom (that\'s right, they have venom, look it up!)</item>
+        <item>magic</item>
+        <item>shampoo bottle</item>
+        <item>WiFi</item>
+        <item>babies</item>
+        <item>mom\'s spaghetti</item>
+        <item>dino DNA</item>
+        <item>peanuts</item>
+        <item>chom-choms</item>
+        <item>vermicious knid</item>
+        <item>snozzwangers</item>
+        <item>snozzberries</item>
+        <item>aged vape juice</item>
+    </string-array>
+    <string-array name="modifyers">
+        <item>wholesome</item>
+        <item>two scoops of</item>
+        <item>bits of</item>
+        <item>not your grandma\'s</item>
+        <item>mechanically seperated</item>
+        <item>a laddle\'s worth of</item>
+        <item>barrel aged</item>
+        <item>hella expensive</item>
+        <item>finely tuned</item>
+        <item>powdered</item>
+        <item>glazed</item>
+        <item>a cooler\'s worth of</item>
+        <item>the mere idea of</item>
+        <item>some</item>
+        <item>like a handful of</item>
+        <item>some a\' dem dere</item>
+        <item>I dunno... like... 50</item>
+        <item>freshly squeezed</item>
+        <item>a slap of</item>
+        <item>gluten-free</item>
+        <item>I\'m pretty sure it\'s</item>
+        <item>a squeeze of</item>
+        <item>a dollop of</item>
+        <item>lady</item>
+        <item>one quart of</item>
+        <item>distilled</item>
+        <item>fermented</item>
+        <item>ionized</item>
+        <item>radioactive</item>
+        <item>isothermal</item>
+        <item>a shirt basket\'s worth of</item>
+        <item>pure</item>
+        <item>an obnoxious amount of</item>
+    </string-array>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>
+
